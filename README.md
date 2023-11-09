@@ -1,20 +1,3 @@
-# 📛 RESTFul_API
-
-📍 프로젝트 기간 : 2023.01.16 ~ 2023.05.28 (4개월)
-
-# 📌 개요
-- 동원몰 부산 항만 GNC에서 컨테이터 트럭이 들어오면 PreGate(입구)에서 컨테이너 종류(특징, 개수, 무게, 트럭넘버, ISO)의 데이터가 포함된 CSV(엑셀파일)를 Parsing후 그 데이터를 Json으로 바꿔 RESTFul API Server에 보내는 프로그램을 구현했습니다.
-
-# 🛠️ 기술 및 도구
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Windows Forms-40AEF0?style=flat-square&logo=Windows Forms&logoColor=white"/> <img src="https://img.shields.io/badge/RESTFul_API-239120?style=flat-square&logo=RESTFul_API&logoColor=white"/>
-
-# 🎏 기능 구현
-- Excel(CSV) Open Parsing
-- RESTFul API (POST)
-- Multi Threading (Mutex)
-- TextBox_TextChanged(UI)
-- TabControl Design (DrawItem)
-
 ### 0. 기본 화면
 
 📍 화면 구성
